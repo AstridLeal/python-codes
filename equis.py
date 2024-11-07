@@ -5,3 +5,5 @@ def func(x):
     return res
 
 print(func(4))
+
+print("Checando que funcione GITHUB.")
