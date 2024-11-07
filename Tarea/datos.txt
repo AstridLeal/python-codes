@@ -1,0 +1,60 @@
+Inglés, nivel básico, salón 1
+Inglés, nivel básico, salón 2
+Inglés, nivel intermedio, salón 1
+Inglés, nivel intermedio, salón 2
+Inglés, nivel avanzado, salón 1
+Inglés, nivel avanzado, salón 2
+Alemán, nivel básico, salón 1
+Alemán, nivel básico, salón 2
+Alemán, nivel intermedio, salón 1
+Alemán, nivel intermedio, salón 2
+Alemán, nivel avanzado, salón 1
+Alemán, nivel avanzado, salón 1
+Francés, nivel básico, salón 1
+Francés, nivel básico, salón 2
+Francés, nivel intermedio, salón 1
+Francés, nivel intermedio, salón 2
+Francés, nivel avanzado, salón 1
+Francés, nivel avanzado, salón 2
+Italiano, nivel básico, salón 1
+Italiano, nivel básico, salón 2
+Italiano, nivel intermedio, salón 1
+Italiano, nivel intermedio, salón 2
+Italiano, nivel avanzado, salón 1
+Italiano, nivel avanzado, salón 2
+Portugués, nivel básico, salón 1
+Portugués, nivel básico, salón 2
+Portugués, nivel intermedio, salón 1
+Portugués, nivel intermedio, salón 2
+Portugués, nivel avanzado, salón 1
+Portugués, nivel avanzado, salón 2
+Chino mandarín, nivel básico, salón 1
+Chino mandarín, nivel básico, salón 1
+Chino mandarín, nivel intermedio, salón 1
+Chino mandarín, nivel intermedio, salón 2
+Chino mandarín, nivel avanzado, salón 1
+Chino mandarín, nivel avanzado, salón 2
+Ruso, nivel básico, salón 1
+Ruso, nivel básico, salón 2
+Ruso, nivel intermedio, salón 1
+Ruso, nivel intermedio, salón 2
+Ruso, nivel avanzado, salón 1
+Ruso, nivel avanzado, salón 2
+Japonés, nivel básico, salón 1
+Japonés, nivel básico, salón 2
+Japonés, nivel intermedio, salón 1
+Japonés, nivel intermedio, salón 2
+Japonés, nivel avanzado, salón 1
+Japonés, nivel avanzado, salón 2
+Árabe, nivel básico, salón 1
+Árabe, nivel básico, salón 2
+Árabe, nivel intermedio, salón 1
+Árabe, nivel intermedio, salón 2
+Árabe, nivel avanzado, salón 1
+Árabe, nivel avanzado, salón 2
+Español, nivel básico, salón 1
+Español, nivel básico, salón 2
+Español, nivel intermedio, salón 1
+Español, nivel intermedio, salón 2
+Español, nivel avanzado, salón 1
+Español, nivel avanzado, salón 2
