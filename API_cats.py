@@ -10,5 +10,4 @@ def obtener_imagen_gato(api_key):
     else:
         return "Error en la solicitud"
 
-# Reemplaza 'tu_clave_API' con tu clave API real
 print(obtener_imagen_gato("live_gg7UlZ1zuUFeL6IofPQoNSERRtsKxDJhIskq3ARhpCCESjFSW9y5FZtP7MJPANvm"))
