@@ -12,7 +12,7 @@ class ToDoApp:
         self.root.rowconfigure(0, weight=1)
         
         # Frame principal
-        self.main_frame = tk.Frame(self.root, padx=10, pady=10) # Padding
+        self.main_frame = tk.Frame(self.root, padx=10, pady=10) 
         self.main_frame.grid(sticky="nsew") # Se ajusta al tamaño de la ventana
 
         self.main_frame.columnconfigure(0, weight=1) 
@@ -48,7 +48,7 @@ class ToDoApp:
         self.delete_button.grid(row=0, column=1, padx=5)
 
         # Información adicional
-        self.info_label = tk.Label(self.main_frame, text="Haz doble click en la tarea para editarla.", font=("Arial", 10), fg="gray")
+        self.info_label = tk.Label(self.main_frame, text="Haz doble click en la tarea para editarla.", font=("Arial", 10), fg="red")
         self.info_label.grid(row=4, column=0, pady=5)
 
         # Eventos
